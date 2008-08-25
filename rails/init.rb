@@ -1,1 +1,1 @@
-require ‘rexml-expansion-fix’
+require 'rexml-expansion-fix'
