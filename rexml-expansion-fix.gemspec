@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name     = "rexml-expansion-fix"
-  s.version  = "1.0.0.1"
+  s.version  = "1.0.0.2"
   s.date     = "2008-08-25"
   s.summary  = "Plugin gem for fixing DoS Vulnerabilities in REXML"
   s.email    = "genki@s21g.com"
